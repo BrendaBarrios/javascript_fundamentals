@@ -1,4 +1,4 @@
-var brenda = {
+ivar brenda = {
     nombre: 'Yasmin',
     edad: 22,
     apellido : 'Barrios'
